@@ -1,0 +1,753 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MedalsRibbonsAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 455}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{0, 572}";
+			sepNavWindowFrame = "{{215, 232}, {1022, 607}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MedalsRibbonsAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 1976}}";
+			sepNavSelRange = "{2034, 0}";
+			sepNavVisRange = "{2528, 563}";
+			sepNavWindowFrame = "{{338, 271}, {1022, 607}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MedalsRibbons */ = {
+		activeExec = 0;
+		executables = (
+			4661AE551284AE470063137B /* MedalsRibbons */,
+		);
+	};
+	28C3AD890F43EF2300507BA6 /* MedalsRibbons.xcdatamodel */ = {
+		uiCtxt = {
+			"Xdesign Model Editor Bookmark Key" = {
+				UIContextForDetailArea = {
+					_indexOfSelectedPane = 0;
+					_indexOfSelectedView = 1;
+				};
+				UIContextForEntityArea = {
+					_indexOfSelectedView = 1;
+					chosenTableColumnns = (
+						"ET Entity",
+						"ET Abstract",
+						"ET Class",
+					);
+					chosenTableColumnns_sortDirections = (
+						NO,
+					);
+					chosenTableColumnns_sortKeys = (
+						name,
+					);
+					chosenTableColumnns_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidths = (
+						103.000000,
+						22.000000,
+						209.080078,
+					);
+				};
+				UIContextForLayoutManager = {
+					detailSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {665, 218}}",
+							"{{670, 0}, {352, 218}}",
+						);
+					};
+					diagramSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {1022, 220}}",
+							"{{0, 225}, {1022, 269}}",
+						);
+					};
+					tableSplitGeometry = {
+						_collapsingFrameDimension = 0;
+						_indexOfCollapsedView = 0;
+						_percentageOfCollapsedView = 0;
+						isCollapsed = yes;
+						sizes = (
+							"{{0, 0}, {486, 218}}",
+							"{{491, 0}, {174, 218}}",
+						);
+					};
+				};
+				UIContextForPropertyArea = {
+					_indexOfSelectedView = 0;
+					chosenTableColumnnFRTs = (
+						"FT Fetch Request",
+						"FT Predicate",
+					);
+					chosenTableColumnnFRTs_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnFRTs_sortKeys = (
+						name,
+					);
+					chosenTableColumnnFRTs_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsAT = (
+						"AT Attribute",
+						"AT Type",
+					);
+					chosenTableColumnnsAT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsAT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsAT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsFPT = (
+						"FP FetchedProperty",
+						"FP Destination",
+						"FP Predicate",
+					);
+					chosenTableColumnnsFPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsFPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsFPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsPT = (
+						"PT Property",
+						"PT Kind",
+						"PT SharedKeyOne",
+					);
+					chosenTableColumnnsPT_sortDirections = (
+						YES,
+					);
+					chosenTableColumnnsPT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsPT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableColumnnsRT = (
+						"RT Relationship",
+						"RT Destination",
+						"RT Optional",
+						"RT Transient",
+						"RT SyncIdentityKey",
+						"RT IsToMany",
+						"RT Min Count",
+						"RT Max Count",
+					);
+					chosenTableColumnnsRT_sortDirections = (
+						NO,
+					);
+					chosenTableColumnnsRT_sortKeys = (
+						name,
+					);
+					chosenTableColumnnsRT_sortSelectors = (
+						"_xdcaseInsensitiveNumericCompare:",
+					);
+					chosenTableWidthsAT = (
+						128.000000,
+						64.000000,
+					);
+					chosenTableWidthsFPT = (
+						128.000000,
+						64.000000,
+						144.764160,
+					);
+					chosenTableWidthsFRT = (
+						128.000000,
+						249.764160,
+					);
+					chosenTableWidthsPT = (
+						128.000000,
+						108.110840,
+						96.570801,
+					);
+					chosenTableWidthsRT = (
+						32.000000,
+						32.000000,
+						12.000000,
+						12.000000,
+						12.000000,
+						12.000000,
+						32.000000,
+						32.000000,
+					);
+				};
+				"xdesign model browser state key - shown/hidden" = 1;
+				"xdesign model diagram view visible rect key" = "{{-180, 49}, {1007, 254}}";
+			};
+			sepNavWindowFrame = "{{258, 91}, {1022, 607}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Distribution;
+		activeExecutable = 4661AE551284AE470063137B /* MedalsRibbons */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MedalsRibbons */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MedalsRibbons */,
+		);
+		breakpoints = (
+			46290B791290BEC90014C620 /* RibbonView.m:174 */,
+			46290BD11290C64B0014C620 /* RackView.m:20 */,
+			46290BE91290C7A60014C620 /* RackView.m:20 */,
+			4603C9EC1291FC4F006F9101 /* Rack.m:93 */,
+			4603CA3C12920328006F9101 /* Rack.m:22 */,
+			463A893D12A14FCC00126B41 /* BranchView.m:86 */,
+			463A897212A1563F00126B41 /* BranchView.m:81 */,
+		);
+		codeSenseManager = 4661AE701284AE610063137B /* Code sense */;
+		executables = (
+			4661AE551284AE470063137B /* MedalsRibbons */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					117,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					195,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					307,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					247,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					501,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					267,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 338178454;
+			PBXWorkspaceStateSaveDate = 338178454;
+		};
+		perUserProjectItems = {
+			46C851EF14282CE300E3442F /* PBXTextBookmark */ = 46C851EF14282CE300E3442F /* PBXTextBookmark */;
+			46C8C2C114283763001FBE9A /* PlistBookmark */ = 46C8C2C114283763001FBE9A /* PlistBookmark */;
+			46C8C2C814283819001FBE9A /* XCBuildMessageTextBookmark */ = 46C8C2C814283819001FBE9A /* XCBuildMessageTextBookmark */;
+			46C8C2D614283836001FBE9A /* PlistBookmark */ = 46C8C2D614283836001FBE9A /* PlistBookmark */;
+			46C8C2E214283EDC001FBE9A /* PBXBookmark */ = 46C8C2E214283EDC001FBE9A /* PBXBookmark */;
+		};
+		sourceControlManager = 4661AE6F1284AE610063137B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 305}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 371}";
+			sepNavWindowFrame = "{{19, 86}, {1022, 607}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MedalsRibbons_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 258}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 366}";
+		};
+	};
+	4603C9C71291F107006F9101 /* Rack.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 442}}";
+			sepNavSelRange = "{179, 0}";
+			sepNavVisRange = "{0, 342}";
+			sepNavWindowFrame = "{{96, 265}, {1022, 607}}";
+		};
+	};
+	4603C9C81291F107006F9101 /* Rack.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 1352}}";
+			sepNavSelRange = "{1464, 0}";
+			sepNavVisRange = "{1237, 466}";
+			sepNavWindowFrame = "{{262, 133}, {1022, 607}}";
+		};
+	};
+	4603C9EC1291FC4F006F9101 /* Rack.m:93 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4603C9C81291F107006F9101 /* Rack.m */;
+		functionName = "-drawRect:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 93;
+		location = MedalsRibbons;
+		modificationTime = 312563268.787908;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	4603CA3C12920328006F9101 /* Rack.m:22 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4603C9C81291F107006F9101 /* Rack.m */;
+		functionName = "-initWithArray:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 22;
+		location = MedalsRibbons;
+		modificationTime = 312563268.78979;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	4608AC65129DBBB700D4BACD /* MedalInfoView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 442}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 603}";
+		};
+	};
+	4608AC66129DBBB700D4BACD /* MedalInfoView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 559}}";
+			sepNavSelRange = "{407, 0}";
+			sepNavVisRange = "{168, 507}";
+		};
+	};
+	4608AC67129DBBB700D4BACD /* MedalInfoView.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 8619}}";
+			sepNavSelRange = "{29650, 0}";
+			sepNavVisRange = "{0, 1233}";
+		};
+	};
+	460C613A12A46CE20002EA75 /* icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{19, 266}, {1022, 607}}";
+		};
+	};
+	461CAE5C12903B4A001B0D8E /* Ribbon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 351}}";
+			sepNavSelRange = "{101, 7}";
+			sepNavVisRange = "{0, 515}";
+			sepNavWindowFrame = "{{42, 245}, {1022, 607}}";
+		};
+	};
+	461CAE5D12903B4A001B0D8E /* Ribbon.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 442}}";
+			sepNavSelRange = "{109, 0}";
+			sepNavVisRange = "{0, 324}";
+			sepNavWindowFrame = "{{19, 266}, {1022, 607}}";
+		};
+	};
+	4622C94C12907C4C007F57DE /* RackView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 364}}";
+			sepNavSelRange = "{477, 0}";
+			sepNavVisRange = "{133, 345}";
+			sepNavWindowFrame = "{{19, 266}, {1022, 607}}";
+		};
+	};
+	4622C94D12907C4C007F57DE /* RackView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 793}}";
+			sepNavSelRange = "{1172, 0}";
+			sepNavVisRange = "{531, 814}";
+			sepNavWindowFrame = "{{417, 42}, {1022, 607}}";
+		};
+	};
+	4622C94E12907C4C007F57DE /* RackView.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 1950}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1374}";
+		};
+	};
+	46290B791290BEC90014C620 /* RibbonView.m:174 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 46BE5502128DF48F00FA76E5 /* RibbonView.m */;
+		functionName = "-buildRack";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 174;
+		location = MedalsRibbons;
+		modificationTime = 312563268.780818;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	46290BD11290C64B0014C620 /* RackView.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4622C94D12907C4C007F57DE /* RackView.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = MedalsRibbons;
+		modificationTime = 312563268.783526;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	46290BE91290C7A60014C620 /* RackView.m:20 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 4622C94D12907C4C007F57DE /* RackView.m */;
+		functionName = "-viewDidLoad";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 20;
+		location = MedalsRibbons;
+		modificationTime = 312563268.78581;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	463A893D12A14FCC00126B41 /* BranchView.m:86 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 46503C7E1285BF84002C0C79 /* BranchView.m */;
+		functionName = "-viewDidAppear:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 86;
+		location = MedalsRibbons;
+		modificationTime = 312563269.829554;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	463A897212A1563F00126B41 /* BranchView.m:81 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 46503C7E1285BF84002C0C79 /* BranchView.m */;
+		functionName = "-tableView:didSelectRowAtIndexPath:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 81;
+		location = MedalsRibbons;
+		modificationTime = 312563268.793464;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	46503C7D1285BF84002C0C79 /* BranchView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 364}}";
+			sepNavSelRange = "{456, 0}";
+			sepNavVisRange = "{85, 455}";
+			sepNavWindowFrame = "{{415, 116}, {1022, 607}}";
+		};
+	};
+	46503C7E1285BF84002C0C79 /* BranchView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 1222}}";
+			sepNavSelRange = "{1499, 0}";
+			sepNavVisRange = "{1160, 490}";
+			sepNavWindowFrame = "{{465, -124}, {1022, 607}}";
+		};
+	};
+	46503C7F1285BF84002C0C79 /* BranchView.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 5629}}";
+			sepNavSelRange = "{17845, 0}";
+			sepNavVisRange = "{0, 1117}";
+			sepNavWindowFrame = "{{43, 246}, {1022, 607}}";
+		};
+	};
+	465438F912A86A3100916BF7 /* afa.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{42, 65}, {1022, 607}}";
+		};
+	};
+	4661AE551284AE470063137B /* MedalsRibbons */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MedalsRibbons;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4661AE6F1284AE610063137B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4661AE701284AE610063137B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	46B33186128F5767006EBE97 /* Organization.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 442}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 622}";
+		};
+	};
+	46B33187128F5767006EBE97 /* Organization.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {749, 442}}";
+			sepNavSelRange = "{115, 0}";
+			sepNavVisRange = "{0, 281}";
+		};
+	};
+	46BE5501128DF48F00FA76E5 /* RibbonView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 507}}";
+			sepNavSelRange = "{237, 0}";
+			sepNavVisRange = "{246, 595}";
+			sepNavWindowFrame = "{{19, 266}, {1022, 607}}";
+		};
+	};
+	46BE5502128DF48F00FA76E5 /* RibbonView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {796, 2600}}";
+			sepNavSelRange = "{4887, 0}";
+			sepNavVisRange = "{4804, 610}";
+			sepNavWindowFrame = "{{19, 266}, {1022, 607}}";
+		};
+	};
+	46BE5503128DF48F00FA76E5 /* RibbonView.xib */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 4953}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1611}";
+		};
+	};
+	46C851EF14282CE300E3442F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MedalsRibbonsAppDelegate.m */;
+		name = "MedalsRibbonsAppDelegate.m: 74";
+		rLen = 0;
+		rLoc = 2034;
+		rType = 0;
+		vrLen = 563;
+		vrLoc = 2528;
+	};
+	46C8C2C114283763001FBE9A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MedalsRibbons-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/justicemyiking/Documents/MedalsRibbons/MedalsRibbons-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	46C8C2C814283819001FBE9A /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "CopyPNGFile build/Distribution-iphoneos/MedalsRibbons.app/r200.png r200.png";
+		fRef = 4601C92812A0B6D40072522E /* r200.png */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 0;
+		rType = 1;
+	};
+	46C8C2D614283836001FBE9A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 46C851EA14282BD300E3442F /* Entitlements.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/justicemyiking/Documents/MedalsRibbons/Entitlements.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	46C8C2E214283EDC001FBE9A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4601C92812A0B6D40072522E /* r200.png */;
+	};
+	8D1107310486CEB800E47090 /* MedalsRibbons-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{98, 91}, {1022, 607}}";
+		};
+	};
+}
