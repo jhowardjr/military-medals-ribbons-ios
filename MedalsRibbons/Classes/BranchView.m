@@ -17,7 +17,7 @@
 
 
 - (void)viewDidLoad {
-
+    
 	managedObjectContext = [(BranchView *)[[UIApplication sharedApplication] delegate] managedObjectContext];
 	
 	NSError *error;
@@ -31,7 +31,6 @@
 				mutableCopy];
 	
 	[request release];
-	
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section{
@@ -46,7 +45,6 @@
 
 	if (cell == nil)
     {
-	
 	  cell =[[[UITableViewCell alloc]
 	  initWithFrame:CGRectZero
 	  reuseIdentifier:CellIdentifier]
@@ -65,9 +63,6 @@
 
 - (void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath {
 	
-	NSLog(@"TEST999");
-
-	
 	RibbonView *ribbonView = [[RibbonView alloc] initWithNibName:@"RibbonView" bundle:[NSBundle mainBundle]];
 	
 	Organization *organization = (Organization *)[orgArray objectAtIndex:indexPath.row];
@@ -85,7 +80,6 @@
 }
 
 - (void)dealloc {
-	
 	[managedObjectContext release];
 	[orgArray release];
 	[tableView release];

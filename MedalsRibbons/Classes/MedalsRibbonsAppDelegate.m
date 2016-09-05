@@ -33,7 +33,7 @@
 	
 	navigationController.navigationBar.tintColor = [UIColor lightGrayColor];
 	
-	[window addSubview: navigationController.view];
+    [window setRootViewController:navigationController];
 	
     [window makeKeyAndVisible];
 	
